@@ -19,9 +19,9 @@ import java.text.DecimalFormat;
 
 public class Temp extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Temp
-     */
+    //
+      Creates new form Temp
+     
     public Temp() {
         initComponents();
     }
